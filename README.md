@@ -29,4 +29,4 @@ Amazon-clone/ │── index.html │── styles.css │── assets/ │ �
 This project is for educational purposes only and is not affiliated with Amazon. Do not use it for commercial purposes.
 
 # Author
-
+[Neha kumari]- (https://github.com/nehaa0110/)
